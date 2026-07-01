@@ -1,6 +1,6 @@
 # Alan Friar
 
-Founder, EnBra Group LLC. Independent researcher working across AI
+Founder & CEO, EnBra Group LLC. Independent researcher working across AI
 reliability architecture, machine-preference systems, and
 archaeoastronomy.
 
