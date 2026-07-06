@@ -29,6 +29,7 @@ preference structures in human–LLM and autonomous AI systems.
 5. [AI Reliability Architecture](https://github.com/alan-g-friar/ai-reliability-architecture) (Mar 2026) — overview framework
 6. [Visual Engine Optimization (VEO)](https://github.com/alan-g-friar/visual-engine-optimization) (Mar 2026)
 7. [Synthetic Intelligence Optimisation (SIO)](https://github.com/alan-g-friar/synthetic-intelligence-optimisation) (Jun 2026)
+8. [Passive Visual Guidance Systems in Offshore, Marine, Energy and Industrial Facilities](https://github.com/alan-g-friar/passive-visual-guidance-offshore-industrial) (Jul 2026)
 
 ## Archaeoastronomy & Geodesy
 
